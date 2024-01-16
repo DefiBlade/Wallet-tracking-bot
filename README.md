@@ -1,4 +1,4 @@
-# Wallet tracked Buy bot
+# Wallet tracking bot
 
 Wallet tracked bot is a bot which it can do type of market manipulation where an entity can enter into a transaction in advance of a pending or incoming order from the specific wallets that will or may impact the price of the order.
 
