@@ -1,0 +1,25 @@
+I am looking for someone to create a bot for me that monitors Ethereum (ERC20) Addresses. It will work like the following:
+
+I input the address to monitor, bot refreshes every 1 minute or so. If that address makes a trade on uniswap / sushiswap or some other exchange i want my bot to do the same exact trade as the address it's been monitoring.
+
+Bot must work with Metamask and have multiple instances for many wallets to monitor. I would like it also to be able to set a copy trade limit. I.E only copy the trade if the value is under 0.5ETH. Must be open source. If you understand the work i need to do and if you understand Ethereum please contact me. Thank you.
+
+
+
+so to summarise you can build something that will allow me to
+
+add multiple wallets to monitor every 30sec-1min
+Copy trade IF value is below what is defined in the settings
+
+Some additional questions
+possible to
+Add copy sell order feature (can be switched on/off in settings)
+
+Gas - possible to use the recommend MM gas amount, or pull data from something like 90% probability gas settings from https://www.blocknative.com/gas-estimator#
+
+
+okay great
+
+Regarding setting gas price in UI. With gas prices all over the place depending on time of day etc, i'm keen to find the best way to set gas so that i'm not overpaying or underpaying. Recommended gas setting would be great (set to high or something)
+
+Setting gas according to blocknative would be a great addition
